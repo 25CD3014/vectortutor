@@ -1,6 +1,7 @@
 # VectorTutor
 
 A comprehensive AI-powered study assistant built with Streamlit and Groq API. This application uses 5 specialized agents to help you learn effectively from PDF documents.
+(Live now at : https://vectortutor.streamlit.app/ )
 
 ## Features
 
@@ -190,5 +191,6 @@ Feel free to submit issues, fork the repository, and create pull requests for an
 ---
 
 **Happy Studying! 📚✨**
+
 
 
